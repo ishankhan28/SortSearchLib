@@ -34,6 +34,11 @@ It’s perfect for learning, testing, or integrating into C projects.
 
 ---
 
+**Static Library (`.a`)**: Code is included in the executable at compile-time.  
+**Shared (Dynamic) Library (`.so`)**: Code is linked at runtime, allowing multiple programs to share it.
+
+
+
 ## 🛠️ Build & Run Using Makefile
 
 ### 1️⃣ Build everything
@@ -79,6 +84,9 @@ int main() {
 
     return 0;
 }
+
+## Testing Program
+
 #include "sortsearch.h"
 #include <stdio.h>
 

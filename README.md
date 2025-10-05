@@ -8,7 +8,22 @@ It’s perfect for learning, testing, or integrating into C projects.
 ---
 
 ## 📁 Project Structure
-
+SortingSearchingLib/
+│
+├── include/
+│ └── sortsearch.h
+├── src/
+│ ├── bsearch.c
+│ ├── lsearch.c
+│ ├── isort.c
+│ ├── bsort.c
+│ ├── ssort.c
+│ ├── msort.c
+│ ├── qsort.c
+│ └── printarray.c
+├── test/
+│ └── testlib.c
+└── README.md
 
 ---
 

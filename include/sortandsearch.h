@@ -1,0 +1,11 @@
+#include <stdio.h>
+int lomutoAlgo(int*,int,int);
+void printarray(int*,int);
+void quicksort(int*,int,int);
+void bubblesort(int*,int);
+void selectionsort(int*,int);
+void insertionsort(int*,int);
+void merge(int*,int,int,int);
+void mergesort(int*,int,int);
+int linearsearch(int*,int,int);
+int binarysearch(int*,int,int,int);
